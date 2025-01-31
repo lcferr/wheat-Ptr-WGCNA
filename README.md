@@ -25,6 +25,3 @@ If you would like to contribute to this project, feel free to submit issues or p
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute this code as long as proper credit is given.
 
-# Contact
-
-For any questions or inquiries, please reach out to lum@aber.ac.uk.
